@@ -1125,6 +1125,7 @@ Bring across the footer from Plone:
 That was basically all to bring the theme together with the dynamic elements from Plone.
 The rest is more or less CSS. Later we will :ref:`create-dynamic-slider-content-in-plone` to make the slider dynamic and let users change the pictures for the slider.
 
+
 Understanding and using the Grunt build system
 ++++++++++++++++++++++++++++++++++++++++++++++
 
