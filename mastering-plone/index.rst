@@ -1,10 +1,12 @@
 .. _mastering_plone-label:
 
-===========================
-Mastering Plone Development
-===========================
+=======================================
+Mastering Plone Development/精通Plone开发
+=======================================
 
 This is the documentation for the "Mastering Plone" training.
+
+本文件是“Mastering Plone”培训材料
 
 Mastering Plone is intended as a week-long training for people who are new to Plone or want to learn about the current best practices of Plone development. It can be split in two trainings:
 
